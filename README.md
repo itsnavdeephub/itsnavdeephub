@@ -30,6 +30,7 @@ I build Android apps, explore AI-powered systems, and love solving real-world pr
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)
 
 <!--
 **itsnavdeephub/itsnavdeephub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
